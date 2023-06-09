@@ -3,6 +3,7 @@ fmt:
 	@printf "\n"
 	prettier --write README.md
 	$(MAKEFILE_SCRIPT_PATH)/fmt-python.sh
+	$(MAKEFILE_SCRIPT_PATH)/fmt-shell.sh
 	@printf "\n"
 
 .PHONY: install

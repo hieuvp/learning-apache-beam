@@ -9,3 +9,5 @@
 
 # Compiled Python Bytecode
 __pycache__/
+
+output/
