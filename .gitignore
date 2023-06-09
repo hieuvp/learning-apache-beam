@@ -10,4 +10,5 @@
 # Compiled Python Bytecode
 __pycache__/
 
+# Output Files
 output/
